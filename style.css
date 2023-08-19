@@ -63,8 +63,9 @@ button {
   outline: none;
   border-width: 0;
   background-color: #1a1827;
-  font-weight: 600;
+  font-weight: Bold;
   width: fit-content;
+  height: fit-content;
 }
 
 button:hover {
@@ -93,6 +94,7 @@ button:hover {
 @media screen and (max-width: 768px) {
   .wrapper {
     width: fit-content;
+    padding: 0 1rem;
   }
   .form1 {
     width: fit-content;
