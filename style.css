@@ -60,12 +60,12 @@ button {
   color: #fff;
   margin-top: 1rem;
   cursor: pointer;
-  outline: none;
+  /* outline: none; */
   border-width: 0;
   background-color: #1a1827;
   font-weight: Bold;
   width: fit-content;
-  height: fit-content;
+  height: 3rem;
 }
 
 button:hover {
